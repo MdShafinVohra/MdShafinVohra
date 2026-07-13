@@ -46,7 +46,7 @@ Azure • Git • GitHub • Linux • Cloudflare
 Power Apps • Odoo • Drupal • VS Code
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind,nodejs,express,dotnet,cs,azure,git,github,linux,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind,nodejs,express,dotnet,cs,azure,git,github,linux" alt="Tech Stack Icons" />
 </p>
 
 ---
