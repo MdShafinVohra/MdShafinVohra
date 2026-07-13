@@ -61,24 +61,12 @@ Power Apps • Odoo • Drupal • VS Code
 | 💼 Assignova Projects | Client projects |
 | ⭐ Open Source | Your best OSS project |
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-omega-nine-82.vercel.app/api/pin/?username=javedakhta&repo=UrbanFix-front&theme=github_dark&hide_border=true" alt="UrbanFix Front"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-omega-nine-82.vercel.app/api/pin/?username=MdShafinVohra&repo=urban-fix-api&theme=github_dark&hide_border=true" alt="UrbanFix API"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-omega-nine-82.vercel.app/api/pin/?username=AssigNova&repo=ShiningStar&theme=github_dark&hide_border=true" alt="ShiningStar"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-omega-nine-82.vercel.app/api/pin/?username=AssigNova&repo=Shiningstars-api&theme=github_dark&hide_border=true" alt="Shiningstars API"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-omega-nine-82.vercel.app/api/pin/?username=javedakhta&repo=UrbanFix-front&theme=github_dark&hide_border=true" alt="UrbanFix Front"/>
+  <img src="https://github-readme-stats-omega-nine-82.vercel.app/api/pin/?username=MdShafinVohra&repo=urban-fix-api&theme=github_dark&hide_border=true" alt="UrbanFix API"/>
+  <img src="https://github-readme-stats-omega-nine-82.vercel.app/api/pin/?username=AssigNova&repo=ShiningStar&theme=github_dark&hide_border=true" alt="ShiningStar"/>
+  <img src="https://github-readme-stats-omega-nine-82.vercel.app/api/pin/?username=AssigNova&repo=Shiningstars-api&theme=github_dark&hide_border=true" alt="Shiningstars API"/>
+</p>
 
 ---
 
