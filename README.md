@@ -1,19 +1,21 @@
-<div align="center">
-  <h3>Hi 👋, I'm Mahammad Shafin</h3>
-  <p>Full Stack Developer • React • Angular • ASP.NET</p>
-  <p>Building scalable web applications with 6+ years of experience.</p>
-  
-  <p>
-    <a href="https://assignova.com">🌐 Portfolio</a> •
-    <a href="mailto:mdshafinvohra@gmail.com">📧 Email</a> •
-    <a href="https://linkedin.com/in/MdShafinVohra">LinkedIn</a> •
-    <a href="https://github.com/MdShafinVohra">GitHub</a>
-  </p>
+<h3 align="center">
+  Full Stack Developer • React • Angular • ASP.NET
+</h3>
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Angular+%7C+ASP.NET;Node.js+%7C+Express.js;Always+Learning+Something+New" alt="Typing SVG" />
-  </p>
-</div>
+<p align="center">
+  Building scalable web applications with 6+ years of experience.
+</p>
+
+<p align="center">
+  <a href="https://assignova.com">🌐 Portfolio</a> •
+  <a href="mailto:mdshafinvohra@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/MdShafinVohra">LinkedIn</a> •
+  <a href="https://github.com/MdShafinVohra">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Angular+%7C+ASP.NET;Node.js+%7C+Express.js;Always+Learning+Something+New" />
+</p>
 
 ---
 
@@ -28,7 +30,7 @@
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### 🎨 Frontend
 React • Angular • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS
@@ -46,60 +48,65 @@ Azure • Git • GitHub • Linux • Cloudflare
 Power Apps • Odoo • Drupal • VS Code
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind,nodejs,express,dotnet,cs,mongodb,postgres,mysql,azure,git,github,linux,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind,nodejs,express,dotnet,cs,mongodb,postgres,mysql,azure,git,github,linux,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 > Replace `YOUR_REPO_NAME` with your actual repositories.
 
 | Project | Description |
-|---|---|
+|---------|-------------|
 | 🚀 UrbanFix | Home services marketplace |
 | 🌐 Portfolio | Personal portfolio |
 | 💼 Assignova Projects | Client projects |
 | ⭐ Open Source | Your best OSS project |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShafinVohra&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true" alt="Pinned Repository"/>
+  <a href="https://github.com/MdShafinVohra/UrbanFix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShafinVohra&repo=UrbanFix&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/MdShafinVohra/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShafinVohra&repo=Portfolio&theme=github_dark&hide_border=true" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MdShafinVohra&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShafinVohra&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MdShafinVohra&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShafinVohra&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MdShafinVohra&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=MdShafinVohra&theme=github-dark&hide_border=true" />
 </p>
 
 > **If these cards don't load:** deploy your own `github-readme-stats` on Vercel. Public instances are often rate limited.
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MdShafinVohra&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MdShafinVohra&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdShafinVohra&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdShafinVohra&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 - Building scalable Angular applications
 - Learning ASP.NET & Azure
@@ -108,7 +115,7 @@ Power Apps • Odoo • Drupal • VS Code
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://assignova.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/MdShafinVohra)
@@ -120,7 +127,7 @@ Power Apps • Odoo • Drupal • VS Code
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MdShafinVohra&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MdShafinVohra&style=for-the-badge" />
 </p>
 
 > *"First, solve the problem. Then, write the code."*
