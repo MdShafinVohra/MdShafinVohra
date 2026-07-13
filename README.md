@@ -1,50 +1,124 @@
-Hi 👋 My name is Mahammad Shafin
-================================
+<h1 align="center">Hi 👋, I'm Mahammad Shafin</h1>
 
-Full Stack Developer
---------------------
+<h3 align="center">
+Full Stack Developer • React • Angular • Node.js • ASP.NET
+</h3>
 
-I've been coding for more than 6 years now, I started with HTML, CSS and JavaScript moving towards frontend libraries like React.js and backend using Express.js, Continuing my journey towards Angular and ASP.NET.
-
-* 🌍  I'm based in Ahmedabad
-* 🖥️  See my portfolio at [Portfolio](http://assignova.com)
-* ✉️  You can contact me at [mdshafinvohra@gmail.com](mailto:mdshafinvohra@gmail.com)
-* 🚀  I'm currently working on [UrbanFix](http://urbanfix.assignova-team.workers.dev)
-* 🧠  I'm currently learning Angular & ASP.NET
-* 👥  I'm looking to collaborate on React and Angular based Projects
-* 💬  Ask me about I'm a part time secretly batman, let me know if you need me
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a>
+<p align="center">
+Building scalable web applications with modern technologies for over 6 years.
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/MdShafinVohra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/MdShafinVohra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://MdShafinVohra.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" title="Hashnode" /> </picture> </a> <a href="http://www.medium.com/MdShafinVohra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.dev.to/MdShafinVohra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> <a href="https://www.linkedin.com/in/MdShafinVohra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/MdShafinVohra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.stackoverflow.com/users/20158976/mahammad-shafin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
+## 👨‍💻 About Me
 
-### Badges
+- 🌍 Based in **Ahmedabad, India**
+- 💼 Full Stack Developer with **6+ years** of experience
+- 🚀 Currently working on **UrbanFix**
+- 🌱 Learning **Angular** & **ASP.NET**
+- 🤝 Open to collaborating on **React** and **Angular** projects
+- 🖥 Portfolio: https://assignova.com
+- 📫 Email: **mdshafinvohra@gmail.com**
+- 🦇 Fun fact: Sometimes Gotham calls me for night shifts.
 
-<b>My GitHub Stats</b>
+---
 
-<a href="https://github.com/MdShafinVohra">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdShafinVohra&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=1" alt="MdShafinVohra's GitHub stats" />
+## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,dotnet,cs,azure,git,github,linux,vscode,mongodb,mysql,postgres" />
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://github.com/MdShafinVohra"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+<a href="https://linkedin.com/in/MdShafinVohra"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+<a href="https://x.com/MdShafinVohra"><img src="https://cdn.simpleicons.org/x/ffffff" height="45"/></a>
+<a href="https://mdshafinvohra.hashnode.dev"><img src="https://cdn.simpleicons.org/hashnode" height="45"/></a>
+<a href="https://medium.com/@MdShafinVohra"><img src="https://cdn.simpleicons.org/medium" height="45"/></a>
+<a href="https://dev.to/MdShafinVohra"><img src="https://cdn.simpleicons.org/devdotto" height="45"/></a>
+<a href="https://discord.com/users/MdShafinVohra"><img src="https://cdn.simpleicons.org/discord" height="45"/></a>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdShafinVohra&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShafinVohra&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=MdShafinVohra&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MdShafinVohra&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdShafinVohra&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+
+<!-- Replace repository names below with your actual repositories -->
+
+<a href="https://github.com/MdShafinVohra/UrbanFix">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShafinVohra&repo=UrbanFix&theme=github_dark&hide_border=true"/>
 </a>
 
-<a href="http://www.github.com/MdShafinVohra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MdShafinVohra&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/MdShafinVohra">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShafinVohra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+<a href="https://github.com/MdShafinVohra/Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShafinVohra&repo=Portfolio&theme=github_dark&hide_border=true"/>
 </a>
 
-<b>Top Repositories</b>
-<br />
-
-<a href="https://github.com/MdShafinVohra/urban-fix-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShafinVohra&repo=YOUR_REPO_NAME_1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Repository 1" />
+<a href="https://github.com/MdShafinVohra/Assignova">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShafinVohra&repo=Assignova&theme=github_dark&hide_border=true"/>
 </a>
 
-<a href="https://github.com/MdShafinVohra/UrbanFix-front">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShafinVohra&repo=YOUR_REPO_NAME_2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Repository 2" />
+<a href="https://github.com/MdShafinVohra/React-Projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShafinVohra&repo=React-Projects&theme=github_dark&hide_border=true"/>
 </a>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+</p>
+
+---
+
+## 💻 Quote I Live By
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MdShafinVohra&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
