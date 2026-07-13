@@ -32,8 +32,19 @@ I've been coding for more than 6 years now, I started with HTML, CSS and JavaScr
 
 <a href="http://www.github.com/MdShafinVohra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MdShafinVohra&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/MdShafinVohra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShafinVohra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/MdShafinVohra">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShafinVohra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
 
 <b>Top Repositories</b>
+<br />
+
+<a href="https://github.com/MdShafinVohra/urban-fix-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShafinVohra&repo=YOUR_REPO_NAME_1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Repository 1" />
+</a>
+
+<a href="https://github.com/MdShafinVohra/UrbanFix-front">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShafinVohra&repo=YOUR_REPO_NAME_2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Repository 2" />
+</a>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
