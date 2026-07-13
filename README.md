@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Angular+%7C+ASP.NET;Node.js+%7C+Express.js;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Angular+%7C+ASP.NET;Node.js+%7C+Express.js;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
@@ -48,28 +48,22 @@ Azure • Git • GitHub • Linux • Cloudflare
 Power Apps • Odoo • Drupal • VS Code
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind,nodejs,express,dotnet,cs,mongodb,postgres,mysql,azure,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind,nodejs,express,dotnet,cs,mongodb,postgres,mysql,azure,git,github,linux,vscode" alt="Tech Stack" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-> Replace `YOUR_REPO_NAME` with your actual repositories.
-
-| Project | Description |
-|---------|-------------|
-| 🚀 UrbanFix | Home services marketplace |
-| 🌐 Portfolio | Personal portfolio |
-| 💼 Assignova Projects | Client projects |
-| ⭐ Open Source | Your best OSS project |
+> ⚡ **Important:** Replace `your-stats-instance.vercel.app` with your own Vercel domain for always‑working cards.  
+> The default `github-readme-stats.vercel.app` may be rate‑limited.
 
 <p align="center">
   <a href="https://github.com/MdShafinVohra/UrbanFix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShafinVohra&repo=UrbanFix&theme=github_dark&hide_border=true" />
+    <img src="https://your-stats-instance.vercel.app/api/pin/?username=MdShafinVohra&repo=UrbanFix&theme=github_dark&hide_border=true" alt="UrbanFix" />
   </a>
   <a href="https://github.com/MdShafinVohra/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShafinVohra&repo=Portfolio&theme=github_dark&hide_border=true" />
+    <img src="https://your-stats-instance.vercel.app/api/pin/?username=MdShafinVohra&repo=Portfolio&theme=github_dark&hide_border=true" alt="Portfolio" />
   </a>
 </p>
 
@@ -78,22 +72,22 @@ Power Apps • Odoo • Drupal • VS Code
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MdShafinVohra&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShafinVohra&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://your-stats-instance.vercel.app/api?username=MdShafinVohra&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Stats" />
+  <img height="170" src="https://your-stats-instance.vercel.app/api/top-langs/?username=MdShafinVohra&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MdShafinVohra&theme=github-dark&hide_border=true" />
+  <img src="https://your-stats-instance.vercel.app/api/streak?user=MdShafinVohra&theme=github-dark&hide_border=true" alt="Streak" />
 </p>
 
-> **If these cards don't load:** deploy your own `github-readme-stats` on Vercel. Public instances are often rate limited.
+> *Using a self‑hosted stats instance → images never break again.*
 
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MdShafinVohra&theme=algolia&no-frame=true&margin-w=10" />
+  <img src="https://your-trophy-instance.vercel.app/?username=MdShafinVohra&theme=algolia&no-frame=true&margin-w=10" alt="Trophies" />
 </p>
 
 ---
@@ -101,7 +95,7 @@ Power Apps • Odoo • Drupal • VS Code
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdShafinVohra&theme=github-dark&hide_border=true" />
+  <img src="https://your-activity-graph-instance.vercel.app/graph?username=MdShafinVohra&theme=github-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -127,7 +121,7 @@ Power Apps • Odoo • Drupal • VS Code
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MdShafinVohra&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=MdShafinVohra&style=for-the-badge" alt="Profile views" />
 </p>
 
 > *"First, solve the problem. Then, write the code."*
