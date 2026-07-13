@@ -64,6 +64,15 @@ Power Apps • Odoo • Drupal • VS Code
 <p align="center">
   <img src="https://github-readme-stats-omega-nine-82.vercel.app/api/pin/?username=javedakhta&repo=UrbanFix-front&theme=github_dark&hide_border=true" alt="Pinned Repository"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats-omega-nine-82.vercel.app/api/pin/?username=MdShafinVohra&repo=urban-fix-api&theme=github_dark&hide_border=true" alt="Pinned Repository"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-omega-nine-82.vercel.app/api/pin/?username=AssigNova&repo=ShiningStar&theme=github_dark&hide_border=true" alt="Pinned Repository"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-omega-nine-82.vercel.app/api/pin/?username=AssigNova&repo=Shiningstars-api&theme=github_dark&hide_border=true" alt="Pinned Repository"/>
+</p>
 
 ---
 
