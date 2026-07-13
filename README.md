@@ -65,7 +65,7 @@ Power Apps • Odoo • Drupal • VS Code
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-omega-nine-82.vercel.app/api?username=MdShafinVohra&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <!-- <img height="170" src="https://github-readme-stats-omega-nine-82.vercel.app/api?username=MdShafinVohra&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats"/> -->
   <img height="170" src="https://github-readme-stats-omega-nine-82.vercel.app/api/top-langs/?username=MdShafinVohra&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
 
@@ -73,15 +73,12 @@ Power Apps • Odoo • Drupal • VS Code
   <img src="https://streak-stats.demolab.com?user=MdShafinVohra&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-> **If these cards don't load:** deploy your own `github-readme-stats` on Vercel. Public instances are often rate limited.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MdShafinVohra&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 ---
 
