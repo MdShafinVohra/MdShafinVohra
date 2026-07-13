@@ -62,7 +62,7 @@ Power Apps • Odoo • Drupal • VS Code
 | ⭐ Open Source | Your best OSS project |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShafinVohra&repo=UrbanFix-front&theme=github_dark&hide_border=true" alt="Pinned Repository"/>
+  <img src="https://github-readme-stats-omega-nine-82.vercel.app/api/pin/?username=MdShafinVohra&repo=UrbanFix-front&theme=github_dark&hide_border=true" alt="Pinned Repository"/>
 </p>
 
 ---
@@ -70,8 +70,8 @@ Power Apps • Odoo • Drupal • VS Code
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MdShafinVohra&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShafinVohra&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats-omega-nine-82.vercel.app/api?username=MdShafinVohra&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats-omega-nine-82.vercel.app/api/top-langs/?username=MdShafinVohra&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
