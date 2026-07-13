@@ -53,7 +53,6 @@ Power Apps • Odoo • Drupal • VS Code
 
 ## 🚀 Featured Projects
 
-> Replace `YOUR_REPO_NAME` with your actual repositories.
 
 | Project | Description |
 |---|---|
@@ -63,7 +62,7 @@ Power Apps • Odoo • Drupal • VS Code
 | ⭐ Open Source | Your best OSS project |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShafinVohra&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true" alt="Pinned Repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdShafinVohra&repo=UrbanFix-front&theme=github_dark&hide_border=true" alt="Pinned Repository"/>
 </p>
 
 ---
